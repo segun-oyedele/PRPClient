@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on BurgerIcon component should match with snapshot 1`] = `
+<div>
+  <button
+    class="fixed z-50 flex flex-col items-center justify-center w-12 h-12 bg-white shadow-md border-2 border-black transition-opacity duration-300 rounded group right-5 top-5 md:hidden hover:opacity-100 sidebar opacity-50 "
+  >
+    <div
+      class=" group-hover:opacity-100 sidebar"
+    />
+    <div
+      class=" group-hover:opacity-100 sidebar"
+    />
+    <div
+      class=" group-hover:opacity-100 sidebar"
+    />
+  </button>
+</div>
+`;

@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on HomeCardItem should match with snapshot 1`] = `
+<div>
+  <div
+    class="flex flex-col justify-between max-w-md px-8 py-4 bg-white rounded-lg shadow-lg w-72 h-60"
+  >
+    <section>
+      <h3
+        class="text-xl font-semibold text-center text-gray-800"
+      />
+      <p
+        class="mt-2 text-gray-600"
+      />
+    </section>
+    <div
+      class="flex justify-end mt-4"
+    >
+      <a
+        class="text-xl font-medium text-indigo-500 transition-opacity duration-300 cursor-pointer hover:opacity-70"
+      >
+        Go there
+      </a>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on ButtonIcon component should match with snapshot 1`] = `
+<div>
+  <button
+    class="btn px-4 py-2.5 shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-300 ease-in-out flex items-center rounded-tr rounded-br bg-indigo-500 hover:bg-indigo-600 focus:bg-indigo-600 active:bg-indigo-600"
+    id="button-addon2"
+    type="button"
+  >
+    <p />
+  </button>
+</div>
+`;

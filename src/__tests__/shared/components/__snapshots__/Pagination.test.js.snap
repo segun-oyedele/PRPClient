@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on Pagination should match with snapshot 1`] = `
+<div>
+  <div
+    class="grid justify-center grid-flow-col gap-3 mt-10 justify-items-center pagination"
+  >
+    <button
+      class="grid items-center grid-flow-col gap-1 px-4 py-2 rounded shadow-md bg-gray-100 text-gray-500 cursor-default"
+    >
+      <svg
+        aria-hidden="true"
+        class="w-4 h-4 text-gray-500"
+        fill="currentColor"
+        viewBox="0 0 20 20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M15.707 15.707a1 1 0 01-1.414 0l-5-5a1 1 0 010-1.414l5-5a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 010 1.414zm-6 0a1 1 0 01-1.414 0l-5-5a1 1 0 010-1.414l5-5a1 1 0 011.414 1.414L5.414 10l4.293 4.293a1 1 0 010 1.414z"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <span>
+        Prev
+      </span>
+    </button>
+    <button
+      class="current-page cursor-default bg-indigo-600 text-white  px-4 py-2 rounded shadow-md pagination-item"
+    >
+      1
+    </button>
+    <button
+      class="bg-white next-page  px-4 py-2 rounded shadow-md pagination-item"
+    >
+      2
+    </button>
+    <button
+      class="bg-white hidden px-4 py-2 rounded shadow-md pagination-item"
+    >
+      3
+    </button>
+    <button
+      class="bg-white hidden px-4 py-2 rounded shadow-md pagination-item"
+    >
+      4
+    </button>
+    <button
+      class="bg-white hidden px-4 py-2 rounded shadow-md pagination-item"
+    >
+      5
+    </button>
+    <button
+      class="bg-white hidden px-4 py-2 rounded shadow-md pagination-item"
+    >
+      6
+    </button>
+    <button
+      class="grid items-center grid-flow-col gap-1 px-4 py-2 rounded shadow-md bg-white"
+    >
+      <span>
+        Next
+      </span>
+      <svg
+        aria-hidden="true"
+        class="w-4 h-4 text-gray-500"
+        fill="currentColor"
+        viewBox="0 0 20 20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z"
+          fill-rule="evenodd"
+        />
+        <path
+          clip-rule="evenodd"
+          d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z"
+          fill-rule="evenodd"
+        />
+      </svg>
+    </button>
+  </div>
+</div>
+`;
