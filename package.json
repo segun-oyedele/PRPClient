@@ -11,10 +11,11 @@
     "test": "jest --watch",
     "test:ci": "jest --ci"
   },
-  "dependencies": {
+  "dependencies": { 
     "@headlessui/react": "^1.6.4",
     "@heroicons/react": "^1.0.6",
-    "@reduxjs/toolkit": "^1.8.2",
+    "@reduxjs/toolkit":
+     "^1.8.2",
     "axios": "^0.27.2",
     "express": "^4.18.1",
     "moment": "^2.29.4",
